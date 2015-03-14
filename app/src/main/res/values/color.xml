@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="incomingCallBackground">#99CC00</color>
+    <color name="outgoingCallBackground">#33B5E5</color>
+    <color name="missedCallBackground">#FF4444</color>
+</resources>
